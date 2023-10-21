@@ -5,7 +5,8 @@
 
 ## Imagens do Relatório:
 
+- Pagina 1:
+<img src="\Imagens\Pagina1.png">
 
-<img src="\Imagens\Pagina2">
-
-<img src="\Imagens\Pagina2"># Desafio-Relat-rio-PowerBI
+-Pagina 2:
+<img src="\Imagens\Pagina2.png">
